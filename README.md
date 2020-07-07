@@ -3,7 +3,7 @@
 欢迎来到**我**这个不断测试中的界面，有不懂的问题你甚至可以[链接到百度](http://www.baidu.com) 
 ## 图片部分
 
-！[image of rain](https://tse1-mm.cn.bing.net/th/id/OIP.8VADnE6xeHI8ffz4C0cOcAHaEo?w=314&h=195&c=7&o=5&dpr=1.25&pid=1.7)
+![image](https://tse1-mm.cn.bing.net/th/id/OIP.8VADnE6xeHI8ffz4C0cOcAHaEo?w=314&h=195&c=7&o=5&dpr=1.25&pid=1.7)
 
 <html>
  <head>
