@@ -31,26 +31,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 <html>
  <head>
   <meta charset="utf-8">
-  <title>this is title</title>
-  <!-- style声明样式，即内联样式 -->
-   <style type="text/css">
-   /* 声明一个类 */
-   .demo
-   {
-    color: black;
-    /* 设置被类选择器选择中的p标签的文本颜色为黑色（black） */
-    background-color:FFFFFF;
-    /* 设置被类选择器选择中的p标签的背景颜色 */
-   }
-   /* 声明某个类被鼠标移入后改变的效果 */
-   .demo:hover
-   {
-    background-color: #FFFACD;
-    /* 鼠标移入后背景颜色发生改变 */
-    color: Crimson;
-    /* 设置被类选择器选择中的p标签的文本颜色为蓝色（FF9900） */
-   }
-  </style>
  </head>
  <body>
        <h1><center><b>Welcome to Su's homepage</b></center></h1>
